@@ -1,6 +1,6 @@
 /****************
-Ma sinh vien: [DIEN_MSSV]
-Ho ten: [DIEN_HO_TEN]
+Ma sinh vien: 202419074
+Ho ten: Vũ Thành Lâm
 ****************/
 #ifndef PROJECTOR_H
 #define PROJECTOR_H
